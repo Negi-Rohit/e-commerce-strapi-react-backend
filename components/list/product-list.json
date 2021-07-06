@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_list_product_lists",
+  "info": {
+    "name": "product_list",
+    "icon": "archive"
+  },
+  "options": {},
+  "attributes": {
+    "products": {
+      "collection": "products"
+    }
+  }
+}

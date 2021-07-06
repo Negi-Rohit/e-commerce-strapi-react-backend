@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_list_orders_data",
+  "info": {
+    "name": "orders_data",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "price": {
+      "type": "biginteger"
+    }
+  }
+}
